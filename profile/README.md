@@ -24,7 +24,7 @@ An open source, post-quantum password manager for Apple devices. End to end encr
 
 ### [Prism](https://github.com/soma-intelligence/prism)
 
-An open source health app that scores whatever your watch, ring or iPhone has recorded in Apple Health. Free, no subscription, usable without an account. It ships as Soma Health, the Soma Labs build of Prism. [somalabs.me/prism](https://somalabs.me/prism)
+An open source health app that scores whatever your watch, ring or iPhone has recorded in Apple Health. Free, no subscription, usable without an account. [somalabs.me/prism](https://somalabs.me/prism)
 
 ### [Soma Flight](https://github.com/soma-intelligence/Soma_Flight)
 
